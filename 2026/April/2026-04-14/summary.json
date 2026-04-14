@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "claude-quest-",
-    "generatedAt": "2026-04-14T16:50:34.922Z",
+    "generatedAt": "2026-04-14T16:50:58.237Z",
     "date": "2026-04-14",
     "month": "April",
     "year": "2026"
@@ -42,7 +42,7 @@
     ]
   },
   "achievements": {
-    "badgesEarned": 3,
+    "badgesEarned": 5,
     "totalBadges": 199,
     "badges": [
       {
@@ -61,6 +61,18 @@
         "id": "hour_1",
         "name": "Locked In",
         "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "report_gen",
+        "name": "Analyst",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "synced",
+        "name": "Commit Pusher",
+        "rarity": "rare",
         "earnedAt": "4/14/2026"
       }
     ],
@@ -96,7 +108,7 @@
         "xp": 75
       }
     ],
-    "weeklyQuestsDone": 0
+    "weeklyQuestsDone": 1
   },
   "xpLog": [
     {
