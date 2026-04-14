@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-21-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-0%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-3-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-21-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-0%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-5-yellow?style=flat-square)
 
 </div>
 
-> 🌱 **Novice** · ⚡ **21 XP** · 🔥 **0 day streak** · 🏅 **3 badges**
+> 🌱 **Novice** · ⚡ **21 XP** · 🔥 **0 day streak** · 🏅 **5 badges**
 
 ---
 
