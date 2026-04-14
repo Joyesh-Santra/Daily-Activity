@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "version": "claude-quest-",
+    "generatedAt": "2026-04-14T16:50:34.922Z",
+    "date": "2026-04-14",
+    "month": "April",
+    "year": "2026"
+  },
+  "progress": {
+    "totalXP": 21,
+    "rank": "Novice",
+    "rankIcon": "🌱",
+    "rankIndex": 1,
+    "totalRanks": 20,
+    "streak": 0,
+    "shopSpent": 0,
+    "challengesCompleted": 0
+  },
+  "today": {
+    "tasks": [
+      {
+        "name": "Study ML",
+        "hours": 1,
+        "xp": 26,
+        "category": "learning",
+        "difficulty": "warmup",
+        "hasProof": false,
+        "notes": "I studied for tomorrow exam . lets see how it goes"
+      }
+    ],
+    "totalHours": 1,
+    "taskCount": 1,
+    "wakeTime": "08:00",
+    "sleepTime": "22:15"
+  },
+  "cosmos": {
+    "kingdomTier": "Lonely Hamlet",
+    "buildings": 2,
+    "activePlanet": "default",
+    "ownedPlanets": [
+      "default"
+    ]
+  },
+  "achievements": {
+    "badgesEarned": 3,
+    "totalBadges": 199,
+    "badges": [
+      {
+        "id": "sleep_king",
+        "name": "Sleep King",
+        "rarity": "rare",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "first_task",
+        "name": "First Blood",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "hour_1",
+        "name": "Locked In",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      }
+    ],
+    "dailyChallenges": [
+      {
+        "id": "c_plan_day",
+        "title": "Strategic Mind",
+        "done": false,
+        "xp": 30
+      },
+      {
+        "id": "c_wake7",
+        "title": "Early Riser",
+        "done": false,
+        "xp": 40
+      },
+      {
+        "id": "c_learn2h",
+        "title": "Knowledge Feast",
+        "done": false,
+        "xp": 75
+      },
+      {
+        "id": "c_no_short_tasks",
+        "title": "No Quick Wins",
+        "done": false,
+        "xp": 110
+      },
+      {
+        "id": "c_design2h",
+        "title": "Art Director",
+        "done": false,
+        "xp": 75
+      }
+    ],
+    "weeklyQuestsDone": 0
+  },
+  "xpLog": [
+    {
+      "pts": 26,
+      "desc": "Completed: Study ML (1h)",
+      "time": "10:14 PM"
+    },
+    {
+      "pts": 10,
+      "desc": "Sleep: On time! Before 10:30pm",
+      "time": "10:13 PM"
+    },
+    {
+      "pts": -15,
+      "desc": "Wake: Late start — after 8am",
+      "time": "10:13 PM"
+    }
+  ]
+}
