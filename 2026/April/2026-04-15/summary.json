@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "version": "claude-quest-",
+    "generatedAt": "2026-04-15T01:18:08.015Z",
+    "date": "2026-04-15",
+    "month": "April",
+    "year": "2026"
+  },
+  "progress": {
+    "totalXP": 30,
+    "rank": "Novice",
+    "rankIcon": "🌱",
+    "rankIndex": 1,
+    "totalRanks": 20,
+    "streak": 0,
+    "shopSpent": 0,
+    "challengesCompleted": 0
+  },
+  "today": {
+    "tasks": [],
+    "totalHours": 0,
+    "taskCount": 0,
+    "wakeTime": "05:07",
+    "sleepTime": null
+  },
+  "cosmos": {
+    "kingdomTier": "Lonely Hamlet",
+    "buildings": 0,
+    "activePlanet": "default",
+    "ownedPlanets": [
+      "default"
+    ]
+  },
+  "achievements": {
+    "badgesEarned": 1,
+    "totalBadges": 199,
+    "badges": [
+      {
+        "id": "early_bird",
+        "name": "Early Bird",
+        "rarity": "common",
+        "earnedAt": "4/15/2026"
+      }
+    ],
+    "dailyChallenges": [
+      {
+        "id": "c_3tasks",
+        "title": "Triple Play",
+        "done": false,
+        "xp": 60
+      },
+      {
+        "id": "c_1k_spender",
+        "title": "XP Connoisseur",
+        "done": false,
+        "xp": 130
+      },
+      {
+        "id": "c_flowduo",
+        "title": "Flow Duo",
+        "done": false,
+        "xp": 200
+      },
+      {
+        "id": "c_code_tasks3",
+        "title": "Dev Sprint",
+        "done": false,
+        "xp": 80
+      },
+      {
+        "id": "c_100xp",
+        "title": "Century Run",
+        "done": false,
+        "xp": 25
+      }
+    ],
+    "weeklyQuestsDone": 0
+  },
+  "xpLog": [
+    {
+      "pts": 30,
+      "desc": "Wake: Incredible! Before 6am ⭐",
+      "time": "06:11 AM"
+    }
+  ]
+}
