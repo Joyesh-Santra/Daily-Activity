@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-21-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-0%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-5-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-30-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-0%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-1-yellow?style=flat-square)
 
 </div>
 
-> 🌱 **Novice** · ⚡ **21 XP** · 🔥 **0 day streak** · 🏅 **5 badges**
+> 🌱 **Novice** · ⚡ **30 XP** · 🔥 **0 day streak** · 🏅 **1 badges**
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Month | Days | XP |
 |:------|-----:|---:|
-| [📅 April](./April/README.md) | 1 day | 21 XP |
+| [📅 April](./April/README.md) | 1 day | 30 XP |
 
 ---
 
