@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "claude-quest-",
-    "generatedAt": "2026-04-16T17:11:53.691Z",
+    "generatedAt": "2026-04-16T17:26:40.195Z",
     "date": "2026-04-16",
     "month": "April",
     "year": "2026"
   },
   "progress": {
-    "totalXP": 67,
+    "totalXP": 0,
     "rank": "Novice",
     "rankIcon": "🌱",
     "rankIndex": 1,
@@ -17,32 +17,22 @@
     "challengesCompleted": 0
   },
   "today": {
-    "tasks": [
-      {
-        "name": "Resume",
-        "hours": 0.25,
-        "xp": 12,
-        "category": "other",
-        "difficulty": "deepwork",
-        "hasProof": true,
-        "notes": "I uploaded resume"
-      }
-    ],
-    "totalHours": 0.25,
-    "taskCount": 1,
-    "wakeTime": "04:38",
-    "sleepTime": "10:40"
+    "tasks": [],
+    "totalHours": 0,
+    "taskCount": 0,
+    "wakeTime": null,
+    "sleepTime": null
   },
   "cosmos": {
     "kingdomTier": "Lonely Hamlet",
-    "buildings": 1,
+    "buildings": 0,
     "activePlanet": "default",
     "ownedPlanets": [
       "default"
     ]
   },
   "achievements": {
-    "badgesEarned": 6,
+    "badgesEarned": 3,
     "totalBadges": 199,
     "badges": [
       {
@@ -62,24 +52,6 @@
         "name": "Commit Pusher",
         "rarity": "rare",
         "earnedAt": "4/15/2026"
-      },
-      {
-        "id": "dawn_patrol",
-        "name": "Dawn Patrol",
-        "rarity": "rare",
-        "earnedAt": "4/16/2026"
-      },
-      {
-        "id": "sleep_king",
-        "name": "Sleep King",
-        "rarity": "rare",
-        "earnedAt": "4/16/2026"
-      },
-      {
-        "id": "perfect_day",
-        "name": "Perfect Day",
-        "rarity": "epic",
-        "earnedAt": "4/16/2026"
       }
     ],
     "dailyChallenges": [
@@ -116,31 +88,28 @@
     ],
     "weeklyQuestsDone": 1
   },
-  "xpLog": [
-    {
-      "pts": 8,
-      "desc": "Completed: Resume (0.25h)",
-      "time": "10:41 PM"
-    },
-    {
-      "pts": 8,
-      "desc": "Completed: Resume (0.25h)",
-      "time": "10:41 PM"
-    },
-    {
-      "pts": 12,
-      "desc": "Completed: Resume (0.25h + proof)",
-      "time": "10:41 PM"
-    },
-    {
-      "pts": 25,
-      "desc": "Sleep: Early bird! Before 9:30pm ⭐",
-      "time": "10:32 PM"
-    },
-    {
-      "pts": 30,
-      "desc": "Wake: Incredible! Before 6am ⭐",
-      "time": "10:32 PM"
-    }
-  ]
+  "xpLog": [],
+  "socialMedia": {
+    "totalEntries": 1,
+    "todayEntries": 1,
+    "avgHours": "8.8"
+  },
+  "reading": {
+    "totalSessions": 0,
+    "totalMinutes": 0,
+    "totalXP": 0
+  },
+  "tomorrowPlan": {
+    "totalPlans": 1,
+    "hasTodayPlan": true
+  },
+  "sanskrit": {
+    "totalEntries": 0,
+    "totalXP": 0
+  },
+  "youtube": {
+    "totalVideos": 0,
+    "todayVideos": 0,
+    "totalXP": 0
+  }
 }
