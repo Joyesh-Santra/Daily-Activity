@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "version": "claude-quest-",
+    "generatedAt": "2026-04-16T17:08:10.445Z",
+    "date": "2026-04-16",
+    "month": "April",
+    "year": "2026"
+  },
+  "progress": {
+    "totalXP": 55,
+    "rank": "Novice",
+    "rankIcon": "🌱",
+    "rankIndex": 1,
+    "totalRanks": 20,
+    "streak": 1,
+    "shopSpent": 0,
+    "challengesCompleted": 0
+  },
+  "today": {
+    "tasks": [],
+    "totalHours": 0,
+    "taskCount": 0,
+    "wakeTime": "04:38",
+    "sleepTime": "10:40"
+  },
+  "cosmos": {
+    "kingdomTier": "Lonely Hamlet",
+    "buildings": 0,
+    "activePlanet": "default",
+    "ownedPlanets": [
+      "default"
+    ]
+  },
+  "achievements": {
+    "badgesEarned": 3,
+    "totalBadges": 199,
+    "badges": [
+      {
+        "id": "early_bird",
+        "name": "Early Bird",
+        "rarity": "common",
+        "earnedAt": "4/15/2026"
+      },
+      {
+        "id": "report_gen",
+        "name": "Analyst",
+        "rarity": "common",
+        "earnedAt": "4/15/2026"
+      },
+      {
+        "id": "synced",
+        "name": "Commit Pusher",
+        "rarity": "rare",
+        "earnedAt": "4/15/2026"
+      }
+    ],
+    "dailyChallenges": [
+      {
+        "id": "c_note",
+        "title": "Reflective",
+        "done": false,
+        "xp": 20
+      },
+      {
+        "id": "c_all_proof",
+        "title": "Iron Evidence",
+        "done": false,
+        "xp": 230
+      },
+      {
+        "id": "c_streak7",
+        "title": "Week Warrior",
+        "done": false,
+        "xp": 150
+      },
+      {
+        "id": "c_2h",
+        "title": "Focus Zone",
+        "done": false,
+        "xp": 45
+      },
+      {
+        "id": "c_sleep10",
+        "title": "10 PM Shutdown",
+        "done": false,
+        "xp": 70
+      }
+    ],
+    "weeklyQuestsDone": 1
+  },
+  "xpLog": [
+    {
+      "pts": 25,
+      "desc": "Sleep: Early bird! Before 9:30pm ⭐",
+      "time": "10:32 PM"
+    },
+    {
+      "pts": 30,
+      "desc": "Wake: Incredible! Before 6am ⭐",
+      "time": "10:32 PM"
+    }
+  ]
+}
