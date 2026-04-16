@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "claude-quest-",
-    "generatedAt": "2026-04-16T17:08:10.445Z",
+    "generatedAt": "2026-04-16T17:11:53.691Z",
     "date": "2026-04-16",
     "month": "April",
     "year": "2026"
   },
   "progress": {
-    "totalXP": 55,
+    "totalXP": 67,
     "rank": "Novice",
     "rankIcon": "🌱",
     "rankIndex": 1,
@@ -17,22 +17,32 @@
     "challengesCompleted": 0
   },
   "today": {
-    "tasks": [],
-    "totalHours": 0,
-    "taskCount": 0,
+    "tasks": [
+      {
+        "name": "Resume",
+        "hours": 0.25,
+        "xp": 12,
+        "category": "other",
+        "difficulty": "deepwork",
+        "hasProof": true,
+        "notes": "I uploaded resume"
+      }
+    ],
+    "totalHours": 0.25,
+    "taskCount": 1,
     "wakeTime": "04:38",
     "sleepTime": "10:40"
   },
   "cosmos": {
     "kingdomTier": "Lonely Hamlet",
-    "buildings": 0,
+    "buildings": 1,
     "activePlanet": "default",
     "ownedPlanets": [
       "default"
     ]
   },
   "achievements": {
-    "badgesEarned": 3,
+    "badgesEarned": 6,
     "totalBadges": 199,
     "badges": [
       {
@@ -52,6 +62,24 @@
         "name": "Commit Pusher",
         "rarity": "rare",
         "earnedAt": "4/15/2026"
+      },
+      {
+        "id": "dawn_patrol",
+        "name": "Dawn Patrol",
+        "rarity": "rare",
+        "earnedAt": "4/16/2026"
+      },
+      {
+        "id": "sleep_king",
+        "name": "Sleep King",
+        "rarity": "rare",
+        "earnedAt": "4/16/2026"
+      },
+      {
+        "id": "perfect_day",
+        "name": "Perfect Day",
+        "rarity": "epic",
+        "earnedAt": "4/16/2026"
       }
     ],
     "dailyChallenges": [
@@ -89,6 +117,21 @@
     "weeklyQuestsDone": 1
   },
   "xpLog": [
+    {
+      "pts": 8,
+      "desc": "Completed: Resume (0.25h)",
+      "time": "10:41 PM"
+    },
+    {
+      "pts": 8,
+      "desc": "Completed: Resume (0.25h)",
+      "time": "10:41 PM"
+    },
+    {
+      "pts": 12,
+      "desc": "Completed: Resume (0.25h + proof)",
+      "time": "10:41 PM"
+    },
     {
       "pts": 25,
       "desc": "Sleep: Early bird! Before 9:30pm ⭐",
