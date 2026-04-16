@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-16",
+  "todayPlan": {
+    "priorities": [
+      "Study"
+    ],
+    "wakeTime": "05:40",
+    "focus": "deep",
+    "notes": "Not waste any time focussing fully on game plan",
+    "date": "2026-04-16",
+    "ts": "10:56 PM"
+  },
+  "recentPlans": [
+    {
+      "priorities": [
+        "Study"
+      ],
+      "wakeTime": "05:40",
+      "focus": "deep",
+      "notes": "Not waste any time focussing fully on game plan",
+      "date": "2026-04-16",
+      "ts": "10:56 PM"
+    }
+  ],
+  "summary": {
+    "totalPlans": 1,
+    "hasTodayPlan": true
+  }
+}
