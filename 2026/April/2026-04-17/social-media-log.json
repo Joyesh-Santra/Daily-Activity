@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-17",
+  "entries": [],
+  "allTimeEntries": [
+    {
+      "hours": 8.75,
+      "platforms": [
+        "other",
+        "reels"
+      ],
+      "reasons": [
+        "boredom",
+        "communication",
+        "habit",
+        "procrastination"
+      ],
+      "strategies": [
+        "replace",
+        "delete-app"
+      ],
+      "commitment": "I will not waste any time from now its my talking truth now",
+      "date": "2026-04-16",
+      "time": "10:55 PM"
+    }
+  ],
+  "summary": {
+    "totalEntries": 1,
+    "todayEntries": 0,
+    "todayHours": "0.0",
+    "avgHours": "8.8"
+  }
+}
