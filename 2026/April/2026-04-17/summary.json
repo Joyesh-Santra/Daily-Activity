@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "version": "claude-quest-",
+    "generatedAt": "2026-04-17T10:07:35.212Z",
+    "date": "2026-04-17",
+    "month": "April",
+    "year": "2026"
+  },
+  "progress": {
+    "totalXP": 30,
+    "rank": "Novice",
+    "rankIcon": "🌱",
+    "rankIndex": 1,
+    "totalRanks": 20,
+    "streak": 1,
+    "shopSpent": 0,
+    "challengesCompleted": 0
+  },
+  "today": {
+    "tasks": [],
+    "totalHours": 0,
+    "taskCount": 0,
+    "wakeTime": "05:40",
+    "sleepTime": null
+  },
+  "cosmos": {
+    "kingdomTier": "Lonely Hamlet",
+    "buildings": 0,
+    "activePlanet": "default",
+    "ownedPlanets": [
+      "default"
+    ]
+  },
+  "achievements": {
+    "badgesEarned": 5,
+    "totalBadges": 199,
+    "badges": [
+      {
+        "id": "sleep_king",
+        "name": "Sleep King",
+        "rarity": "rare",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "first_task",
+        "name": "First Blood",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "hour_1",
+        "name": "Locked In",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "report_gen",
+        "name": "Analyst",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "synced",
+        "name": "Commit Pusher",
+        "rarity": "rare",
+        "earnedAt": "4/14/2026"
+      }
+    ],
+    "dailyChallenges": [
+      {
+        "id": "c_cosmos1",
+        "title": "Planet Shopper",
+        "done": false,
+        "xp": 40
+      },
+      {
+        "id": "c_2flow",
+        "title": "Double Flow",
+        "done": false,
+        "xp": 160
+      },
+      {
+        "id": "c_xp_600",
+        "title": "Powerhouse",
+        "done": false,
+        "xp": 175
+      },
+      {
+        "id": "c_5tasks1h",
+        "title": "High Volume",
+        "done": false,
+        "xp": 200
+      },
+      {
+        "id": "c_xp_2000",
+        "title": "Two K Day",
+        "done": false,
+        "xp": 600
+      }
+    ],
+    "weeklyQuestsDone": 1
+  },
+  "xpLog": [
+    {
+      "pts": 30,
+      "desc": "Wake: Incredible! Before 6am ⭐",
+      "time": "03:36 PM"
+    }
+  ],
+  "socialMedia": {
+    "totalEntries": 0,
+    "todayEntries": 0,
+    "avgHours": "0"
+  },
+  "reading": {
+    "totalSessions": 0,
+    "totalMinutes": 0,
+    "totalXP": 0
+  },
+  "tomorrowPlan": {
+    "totalPlans": 0,
+    "hasTodayPlan": false
+  },
+  "sanskrit": {
+    "totalEntries": 0,
+    "totalXP": 0
+  },
+  "youtube": {
+    "totalVideos": 0,
+    "todayVideos": 0,
+    "totalXP": 0
+  }
+}
