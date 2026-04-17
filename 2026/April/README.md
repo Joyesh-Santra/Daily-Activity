@@ -35,7 +35,7 @@
 |:-------|------:|
 | 🌿 Aloe Vera Applied | **0 days** out of 3 |
 | 💯 Perfect Habit Days | **0 days** (all 5 habits done) |
-| 😴 Avg Sleep Rating | **7.0/10** (1 nights rated) |
+| 😴 Avg Sleep Rating | **7.0/10** (2 nights rated) |
 
 ---
 
