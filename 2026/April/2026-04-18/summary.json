@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "version": "claude-quest-",
+    "generatedAt": "2026-04-17T18:42:05.975Z",
+    "date": "2026-04-18",
+    "month": "April",
+    "year": "2026"
+  },
+  "progress": {
+    "totalXP": 0,
+    "rank": "Novice",
+    "rankIcon": "🌱",
+    "rankIndex": 1,
+    "totalRanks": 20,
+    "streak": 1,
+    "shopSpent": 0,
+    "challengesCompleted": 0
+  },
+  "today": {
+    "tasks": [],
+    "totalHours": 0,
+    "taskCount": 0,
+    "wakeTime": null,
+    "sleepTime": null
+  },
+  "cosmos": {
+    "kingdomTier": "Lonely Hamlet",
+    "buildings": 0,
+    "activePlanet": "default",
+    "ownedPlanets": [
+      "default"
+    ]
+  },
+  "achievements": {
+    "badgesEarned": 4,
+    "totalBadges": 199,
+    "badges": [
+      {
+        "id": "early_bird",
+        "name": "Early Bird",
+        "rarity": "common",
+        "earnedAt": "4/15/2026"
+      },
+      {
+        "id": "report_gen",
+        "name": "Analyst",
+        "rarity": "common",
+        "earnedAt": "4/15/2026"
+      },
+      {
+        "id": "synced",
+        "name": "Commit Pusher",
+        "rarity": "rare",
+        "earnedAt": "4/15/2026"
+      },
+      {
+        "id": "dawn_patrol",
+        "name": "Dawn Patrol",
+        "rarity": "rare",
+        "earnedAt": "4/16/2026"
+      }
+    ],
+    "dailyChallenges": [
+      {
+        "id": "c_5h",
+        "title": "Marathon",
+        "done": false,
+        "xp": 150
+      },
+      {
+        "id": "c_streak14",
+        "title": "Fortnight Fire",
+        "done": false,
+        "xp": 200
+      },
+      {
+        "id": "c_proof",
+        "title": "Prove It",
+        "done": false,
+        "xp": 35
+      },
+      {
+        "id": "c_write_research",
+        "title": "Academic",
+        "done": false,
+        "xp": 65
+      },
+      {
+        "id": "c_spend500",
+        "title": "XP Spender",
+        "done": false,
+        "xp": 75
+      }
+    ],
+    "weeklyQuestsDone": 1
+  },
+  "xpLog": [],
+  "socialMedia": {
+    "totalEntries": 0,
+    "todayEntries": 0,
+    "avgHours": "0"
+  },
+  "reading": {
+    "totalSessions": 0,
+    "totalMinutes": 0,
+    "totalXP": 0
+  },
+  "tomorrowPlan": {
+    "totalPlans": 0,
+    "hasTodayPlan": false
+  },
+  "sanskrit": {
+    "totalEntries": 0,
+    "totalXP": 0
+  },
+  "youtube": {
+    "totalVideos": 0,
+    "todayVideos": 0,
+    "totalXP": 0
+  },
+  "lifeTracker": {
+    "today": {
+      "habitsCompleted": 0,
+      "habitsDone": {},
+      "sleepRating": null,
+      "aloeApplied": false,
+      "aloeHasProof": false,
+      "aloeXpBonus": 0
+    },
+    "allTime": {
+      "aloeStreak": 0,
+      "aloeThisMonth": 0,
+      "aloeThisYear": 0,
+      "perfectHabitDaysThisMonth": 0,
+      "avgSleepRatingThisMonth": "7.0"
+    }
+  }
+}
