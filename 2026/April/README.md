@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-0-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-3-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-30-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-5-yellow?style=flat-square)
 
 </div>
 
-> 🌱 **Novice** · ⚡ **0 XP** · 🔥 **1 day streak** · 🏅 **3 badges**
+> 🌱 **Novice** · ⚡ **30 XP** · 🔥 **1 day streak** · 🏅 **5 badges**
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Date | XP | Tasks | Rank |
 |:-----|---:|------:|:-----|
-| [2026-04-16](./2026-04-16/README.md) | **0 XP** | 0 | 🌱 Novice |
-| [2026-04-15](./2026-04-15/README.md) | 30 XP | 0 | 🌱 Novice |
+| [2026-04-17](./2026-04-17/README.md) | **30 XP** | 0 | 🌱 Novice |
+| [2026-04-14](./2026-04-14/README.md) | 21 XP | 1 | 🌱 Novice |
 
 ---
 
