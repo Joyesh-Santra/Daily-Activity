@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "claude-quest-",
-    "generatedAt": "2026-04-17T18:42:05.975Z",
+    "generatedAt": "2026-04-17T18:44:42.142Z",
     "date": "2026-04-18",
     "month": "April",
     "year": "2026"
@@ -120,9 +120,12 @@
   },
   "lifeTracker": {
     "today": {
-      "habitsCompleted": 0,
-      "habitsDone": {},
-      "sleepRating": null,
+      "habitsCompleted": 2,
+      "habitsDone": {
+        "water": true,
+        "reading": true
+      },
+      "sleepRating": 7,
       "aloeApplied": false,
       "aloeHasProof": false,
       "aloeXpBonus": 0
