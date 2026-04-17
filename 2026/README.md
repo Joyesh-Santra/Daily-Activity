@@ -24,7 +24,7 @@
 |:-------|------:|
 | 🌿 Aloe Vera Applied | **0 days** in 2026 |
 | 💯 Perfect Habit Days | **0 days** (all 5 done) |
-| 😴 Avg Sleep Rating | **7.0/10** (1 nights logged) |
+| 😴 Avg Sleep Rating | **7.0/10** (2 nights logged) |
 
 ---
 
