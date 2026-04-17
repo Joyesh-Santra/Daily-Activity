@@ -2,19 +2,29 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-30-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-5-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-0-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-4-yellow?style=flat-square)
 
 </div>
 
-> 🌱 **Novice** · ⚡ **30 XP** · 🔥 **1 day streak** · 🏅 **5 badges**
+> 🌱 **Novice** · ⚡ **0 XP** · 🔥 **1 day streak** · 🏅 **4 badges**
 
 ---
 
 ## Months
 
-| Month | Days | XP |
-|:------|-----:|---:|
-| [📅 April](./April/README.md) | 2 days | 51 XP |
+| Month | Days | XP | ⏱️ Hours | 🎬 YT | 📖 Reading | 📱 Avg Social/day | 🌿 Aloe |
+|:------|-----:|---:|--------:|:-----:|:---------:|:-----------------:|:-------:|
+| [📅 April](./April/README.md) | 3 days | 60 XP | — | — | — | — | — |
+
+---
+
+## 🌱 Life Tracker — 2026 Annual Summary
+
+| Metric | Value |
+|:-------|------:|
+| 🌿 Aloe Vera Applied | **0 days** in 2026 |
+| 💯 Perfect Habit Days | **0 days** (all 5 done) |
+| 😴 Avg Sleep Rating | **7.0/10** (1 nights logged) |
 
 ---
 
