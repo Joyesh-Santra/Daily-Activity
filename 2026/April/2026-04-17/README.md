@@ -1,4 +1,4 @@
-# 🌱 Claude Quest — Friday, April 17, 2026
+# ⚡ Claude Quest — Friday, April 17, 2026
 
 <div align="center">
 
@@ -6,11 +6,11 @@
 
 ![Progress Card](./progress-card.png)
 
-![XP](https://img.shields.io/badge/XP-30-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Kingdom](https://img.shields.io/badge/Kingdom-Lonely%20Hamlet-blue?style=flat-square)
+![XP](https://img.shields.io/badge/XP-132-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Apprentice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Kingdom](https://img.shields.io/badge/Kingdom-Growing%20Village-blue?style=flat-square)
 
 </div>
 
-> 🌱 **Novice** &nbsp;·&nbsp; ⚡ **30 XP** &nbsp;·&nbsp; 🏕️ **Lonely Hamlet** &nbsp;·&nbsp; 🔥 **1 day streak**
+> ⚡ **Apprentice** &nbsp;·&nbsp; ⚡ **132 XP** &nbsp;·&nbsp; 🌿 **Growing Village** &nbsp;·&nbsp; 🔥 **1 day streak**
 
 ---
 
@@ -18,47 +18,140 @@
 
 | Metric | Value | Detail |
 |:-------|:-----:|:-------|
-| 🎯 Tasks Completed | **0** | No tasks logged yet |
-| ⏱️ Total Hours | **0.0h** | Nothing logged |
-| ⚡ XP Earned | **30 XP** | 49 XP to Apprentice |
-| 📊 Level Progress | **52%** | ████████░░░░░░░░ |
+| 🎯 Tasks Completed | **3** | 3 focused sessions |
+| ⏱️ Total Hours | **2.3h** | Solid work session |
+| ⚡ XP Earned | **132 XP** | 68 XP to Journeyman |
+| 📊 Level Progress | **55%** | █████████░░░░░░░ |
 | 🔥 Streak | **1 days** | Building momentum |
 | ☀️ Wake Time | **05:40** | Early riser bonus earned! |
+| 🌙 Sleep Time | **24:00** | Sleep target: before 10:30pm |
+| 😴 Est. Sleep | **5.7h** | Short sleep detected — rest more to maximize tomorrow's output. |
+
+## 📝 Task Breakdown
+
+| # | Task | Category | Duration | Difficulty | XP | Files |
+|:-:|:-----|:--------:|:--------:|:----------:|---:|:-----:|
+| 1 | **ISS Assignment** | ✍️ writing | 0.25h | 🔥 deepwork | **+12 XP** | 📎 Yes |
+| 2 | **ML Lab** | ✍️ writing | 1h | 🔥 deepwork | **+50 XP** | 📎 Yes |
+| 3 | **MaD Lab** | ✍️ writing | 1h | 🔥 deepwork | **+50 XP** | 📎 Yes |
+
+<details>
+<summary>📌 <strong>Session Notes</strong> (3)</summary>
+
+**ISS Assignment** *(0.25h)*
+
+> DId the work of information assignment
+
+**ML Lab** *(1h)*
+
+> DId the work of ML Lab
+
+**MaD Lab** *(1h)*
+
+> DId the work of ML Lab
+
+</details>
+
+## 📊 XP Distribution Chart
+
+```text
+Task XP Breakdown (today)
+──────────────────────────────────────────
+ISS Assignment     ████░░░░░░░░░░░░░░   +12 XP
+ML Lab             ██████████████████   +50 XP
+MaD Lab            ██████████████████   +50 XP
+──────────────────────────────────────────
+TOTAL              ██████████████████  +132 XP
+```
+
+```text
+Hours per Task
+──────────────────────────────────────
+ISS Assignment     ████░░░░░░░░░░ 0.25h
+ML Lab             ██████████████    1h
+MaD Lab            ██████████████    1h
+──────────────────────────────────────
+Total                              2.3h
+```
 
 ## 🕒 XP Timeline
 
 | Time | Event | XP |
 |:-----|:------|---:|
-| `03:36 PM` | Wake: Incredible! Before 6am ⭐ | `+30` |
+| `06:18 AM` | Wake: Incredible! Before 6am ⭐ | `+30` |
+| `11:56 PM` | Sleep: Night owl — after 10:30pm | `-10` |
+| `11:56 PM` | Completed: ISS Assignment (0.25h + proof) | `+12` |
+| `11:56 PM` | Completed: ISS Assignment (0.25h) | `+8` |
+| `11:57 PM` | Completed: ML Lab (1h + proof) | `+50` |
+| `11:58 PM` | Completed: MaD Lab (1h + proof) | `+50` |
 
 ## 📈 Historical Context
 
 | Metric | Value |
 |:-------|------:|
-| Days tracked | 1 |
-| Average daily XP | 21 |
-| Best day | 2026-04-14 (21 XP) |
-| Today vs average | ✅ Above average (+9) |
+| Days tracked | 2 |
+| Average daily XP | 25 |
+| Best day | 2026-04-15 (30 XP) |
+| Today vs average | ✅ Above average (+107) |
+
+### Last 2 Days
+
+```text
+2026-04-15  ███░░░░░░░░░░░    30 XP
+2026-04-16  ██░░░░░░░░░░░░    20 XP
+2026-04-17  ██████████████   132 XP ← today
+```
 
 ## 🏆 Insights
 
+- 📎 **Proof provided** — file attachments earned a 50% XP bonus on qualifying tasks.
 - ⭐ **Before-6am warrior** — maximum wake-time bonus earned.
 
-## 🏅 Badge Wall (5 / 199 unlocked)
+## 🌙 Latest Plan *(2026-04-16)*
+
+🥇 Study
+
+## 🌱 Life Tracker
+
+### 🔑 Daily Habits
+
+| Habit | Status |
+|:------|:------:|
+| 💧 Hydration (8 glasses) | ✅ Done |
+| 🏃 Exercise | ⬜ Not done |
+| 📚 Reading 20+ min | ⬜ Not done |
+| 📝 Journal | ⬜ Not done |
+| 🧘 Meditate | ⬜ Not done |
+
+*Completed: **1/5** habits today*
+
+### 😴 Sleep Quality
+
+| Rating | Label | Bar |
+|:------:|:------|:----|
+| **8/10** | Great ✅ | `████████░░` |
+
+### 🌿 Aloe Vera Care
+
+| Applied Today | Proof Uploaded | XP Bonus |
+|:-------------:|:--------------:|:--------:|
+| ❌ No | — | — |
+
+> 🌿 Aloe streak: **0 days** · This month: **0 times** · This year: **0 times**
+
+## 🏅 Badge Wall (3 / 199 unlocked)
 
 - 🐙 **Commit Pusher** *(rare)* — Sync your data to GitHub
 - 📊 **Analyst** *(common)* — Generate a daily report
-- 🔒 **Locked In** *(common)* — Log 1+ hour in a single task
-- ⚔️ **First Blood** *(common)* — Complete your first task
-- 😴 **Sleep King** *(rare)* — Log both wake and sleep same day
+- 🌅 **Early Bird** *(common)* — Wake before 6am
 
 ---
 
 <div align="center">
 
-*Generated by **Claude Quest ** · 2026-04-17T10:07:28.000Z*
+*Generated by **Claude Quest ** · 2026-04-17T18:29:13.749Z*
 
-*Rank: **🌱 Novice** · Cosmos: **🏕️ Lonely Hamlet** · Streak: **🔥 1d** · Badges: **🏅 5/199***
+*Rank: **⚡ Apprentice** · Cosmos: **🌿 Growing Village** · Streak: **🔥 1d** · Badges: **🏅 3/199***
 
 [⬅️ April 2026](../README.md) &nbsp;·&nbsp; [🏠 2026 Overview](../../README.md)
 
