@@ -1,32 +1,49 @@
 {
   "date": "2026-04-18",
-  "entries": [],
-  "allTimeEntries": [
+  "entries": [
     {
-      "hours": 8.75,
+      "hours": 5,
       "platforms": [
-        "other",
-        "reels"
+        "other"
       ],
       "reasons": [
         "boredom",
-        "communication",
         "habit",
+        "entertainment",
         "procrastination"
       ],
       "strategies": [
-        "replace",
-        "delete-app"
+        "app-limits"
       ],
-      "commitment": "I will not waste any time from now its my talking truth now",
-      "date": "2026-04-16",
-      "time": "10:55 PM"
+      "commitment": "I am not going to use any social media tomorrow",
+      "date": "2026-04-18",
+      "time": "11:52 PM"
+    }
+  ],
+  "allTimeEntries": [
+    {
+      "hours": 5,
+      "platforms": [
+        "other"
+      ],
+      "reasons": [
+        "boredom",
+        "habit",
+        "entertainment",
+        "procrastination"
+      ],
+      "strategies": [
+        "app-limits"
+      ],
+      "commitment": "I am not going to use any social media tomorrow",
+      "date": "2026-04-18",
+      "time": "11:52 PM"
     }
   ],
   "summary": {
     "totalEntries": 1,
-    "todayEntries": 0,
-    "todayHours": "0.0",
-    "avgHours": "8.8"
+    "todayEntries": 1,
+    "todayHours": "5.0",
+    "avgHours": "5.0"
   }
 }
