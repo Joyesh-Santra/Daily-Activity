@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "claude-quest-",
-    "generatedAt": "2026-04-17T18:44:42.142Z",
+    "generatedAt": "2026-04-18T18:28:18.579Z",
     "date": "2026-04-18",
     "month": "April",
     "year": "2026"
   },
   "progress": {
-    "totalXP": 0,
+    "totalXP": 10,
     "rank": "Novice",
     "rankIcon": "🌱",
     "rankIndex": 1,
@@ -20,8 +20,8 @@
     "tasks": [],
     "totalHours": 0,
     "taskCount": 0,
-    "wakeTime": null,
-    "sleepTime": null
+    "wakeTime": "06:30",
+    "sleepTime": "24:00"
   },
   "cosmos": {
     "kingdomTier": "Lonely Hamlet",
@@ -32,7 +32,7 @@
     ]
   },
   "achievements": {
-    "badgesEarned": 4,
+    "badgesEarned": 5,
     "totalBadges": 199,
     "badges": [
       {
@@ -58,6 +58,12 @@
         "name": "Dawn Patrol",
         "rarity": "rare",
         "earnedAt": "4/16/2026"
+      },
+      {
+        "id": "sleep_king",
+        "name": "Sleep King",
+        "rarity": "rare",
+        "earnedAt": "4/18/2026"
       }
     ],
     "dailyChallenges": [
@@ -94,11 +100,22 @@
     ],
     "weeklyQuestsDone": 1
   },
-  "xpLog": [],
+  "xpLog": [
+    {
+      "pts": -10,
+      "desc": "Sleep: Night owl — after 10:30pm",
+      "time": "11:51 PM"
+    },
+    {
+      "pts": 20,
+      "desc": "Wake: Amazing! Before 7am",
+      "time": "11:51 PM"
+    }
+  ],
   "socialMedia": {
-    "totalEntries": 0,
-    "todayEntries": 0,
-    "avgHours": "0"
+    "totalEntries": 1,
+    "todayEntries": 1,
+    "avgHours": "5.0"
   },
   "reading": {
     "totalSessions": 0,
@@ -106,8 +123,8 @@
     "totalXP": 0
   },
   "tomorrowPlan": {
-    "totalPlans": 0,
-    "hasTodayPlan": false
+    "totalPlans": 1,
+    "hasTodayPlan": true
   },
   "sanskrit": {
     "totalEntries": 0,
@@ -120,22 +137,22 @@
   },
   "lifeTracker": {
     "today": {
-      "habitsCompleted": 2,
+      "habitsCompleted": 1,
       "habitsDone": {
         "water": true,
-        "reading": true
+        "reading": false
       },
-      "sleepRating": 7,
-      "aloeApplied": false,
+      "sleepRating": 6,
+      "aloeApplied": true,
       "aloeHasProof": false,
       "aloeXpBonus": 0
     },
     "allTime": {
-      "aloeStreak": 0,
-      "aloeThisMonth": 0,
-      "aloeThisYear": 0,
+      "aloeStreak": 1,
+      "aloeThisMonth": 1,
+      "aloeThisYear": 1,
       "perfectHabitDaysThisMonth": 0,
-      "avgSleepRatingThisMonth": "7.0"
+      "avgSleepRatingThisMonth": "6.5"
     }
   }
 }
