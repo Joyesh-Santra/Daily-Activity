@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-0-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-4-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-10-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-5-yellow?style=flat-square)
 
 </div>
 
-> 🌱 **Novice** · ⚡ **0 XP** · 🔥 **1 day streak** · 🏅 **4 badges**
+> 🌱 **Novice** · ⚡ **10 XP** · 🔥 **1 day streak** · 🏅 **5 badges**
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Month | Days | XP | ⏱️ Hours | 🎬 YT | 📖 Reading | 📱 Avg Social/day | 🌿 Aloe |
 |:------|-----:|---:|--------:|:-----:|:---------:|:-----------------:|:-------:|
-| [📅 April](./April/README.md) | 3 days | 60 XP | — | — | — | — | — |
+| [📅 April](./April/README.md) | 3 days | 70 XP | — | — | — | 1h 40m | 1🌿 |
 
 ---
 
@@ -22,9 +22,9 @@
 
 | Metric | Value |
 |:-------|------:|
-| 🌿 Aloe Vera Applied | **0 days** in 2026 |
+| 🌿 Aloe Vera Applied | **1 days** in 2026 |
 | 💯 Perfect Habit Days | **0 days** (all 5 done) |
-| 😴 Avg Sleep Rating | **7.0/10** (2 nights logged) |
+| 😴 Avg Sleep Rating | **6.5/10** (2 nights logged) |
 
 ---
 
