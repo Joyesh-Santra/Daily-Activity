@@ -1,20 +1,29 @@
 {
   "date": "2026-04-18",
-  "todayPlan": null,
+  "todayPlan": {
+    "priorities": [
+      "Wake up 6:30 to 7 am"
+    ],
+    "wakeTime": "06:50",
+    "focus": "deep",
+    "notes": "I will remove social media and goo fully focussed",
+    "date": "2026-04-18",
+    "ts": "11:56 PM"
+  },
   "recentPlans": [
     {
       "priorities": [
-        "Study"
+        "Wake up 6:30 to 7 am"
       ],
-      "wakeTime": "05:40",
+      "wakeTime": "06:50",
       "focus": "deep",
-      "notes": "Not waste any time focussing fully on game plan",
-      "date": "2026-04-16",
-      "ts": "10:56 PM"
+      "notes": "I will remove social media and goo fully focussed",
+      "date": "2026-04-18",
+      "ts": "11:56 PM"
     }
   ],
   "summary": {
     "totalPlans": 1,
-    "hasTodayPlan": false
+    "hasTodayPlan": true
   }
 }
