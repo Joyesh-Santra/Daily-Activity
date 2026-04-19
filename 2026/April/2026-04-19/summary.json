@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "version": "claude-quest-",
+    "generatedAt": "2026-04-19T17:20:15.348Z",
+    "date": "2026-04-19",
+    "month": "April",
+    "year": "2026"
+  },
+  "progress": {
+    "totalXP": 186,
+    "rank": "Apprentice",
+    "rankIcon": "⚡",
+    "rankIndex": 2,
+    "totalRanks": 20,
+    "streak": 1,
+    "shopSpent": 0,
+    "challengesCompleted": 1
+  },
+  "today": {
+    "tasks": [
+      {
+        "name": "Linked List",
+        "hours": 2.75,
+        "xp": 135,
+        "category": "learning",
+        "difficulty": "deepwork",
+        "hasProof": true,
+        "notes": "I learned about linked list and its usage"
+      },
+      {
+        "name": "Did some lab work of Mobile application development",
+        "hours": 0.5,
+        "xp": 21,
+        "category": "writing",
+        "difficulty": "warmup",
+        "hasProof": true,
+        "notes": "I learned about linked list and its usage"
+      }
+    ],
+    "totalHours": 3.25,
+    "taskCount": 2,
+    "wakeTime": "06:45",
+    "sleepTime": "23:00"
+  },
+  "cosmos": {
+    "kingdomTier": "Lonely Hamlet",
+    "buildings": 4,
+    "activePlanet": "default",
+    "ownedPlanets": [
+      "default"
+    ]
+  },
+  "achievements": {
+    "badgesEarned": 21,
+    "totalBadges": 319,
+    "badges": [
+      {
+        "id": "sleep_king",
+        "name": "Sleep King",
+        "rarity": "rare",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "first_task",
+        "name": "First Blood",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "hour_1",
+        "name": "Locked In",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "report_gen",
+        "name": "Analyst",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "synced",
+        "name": "Commit Pusher",
+        "rarity": "rare",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "early_bird",
+        "name": "Early Bird",
+        "rarity": "common",
+        "earnedAt": "4/17/2026"
+      },
+      {
+        "id": "b2_tasks_1",
+        "name": "First Task",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_hour_1",
+        "name": "First Hour",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_days_1",
+        "name": "Day One",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_wake_first",
+        "name": "Rise & Shine",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_sleep_first",
+        "name": "Good Night",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_sync_3",
+        "name": "Sync Habit",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "first_100",
+        "name": "Century",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "hour_2",
+        "name": "Deep Focus",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "proof_1",
+        "name": "Show Your Work",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "challenge_done",
+        "name": "Challenge Accepted",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_early_1",
+        "name": "Early Bird",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_efficient",
+        "name": "Efficient",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_super_eff",
+        "name": "Super Efficient",
+        "rarity": "rare",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_proof_1",
+        "name": "Show Your Work",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_hour_3_day",
+        "name": "3-Hour Day",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      }
+    ],
+    "dailyChallenges": [
+      {
+        "id": "c_note",
+        "title": "Reflective",
+        "done": true,
+        "xp": 20
+      },
+      {
+        "id": "c_7h_all",
+        "title": "7-Hour Titan",
+        "done": false,
+        "xp": 220
+      },
+      {
+        "id": "c_xp_1000",
+        "title": "4-Digit Day",
+        "done": false,
+        "xp": 300
+      },
+      {
+        "id": "c_3deep",
+        "title": "Deep Trio",
+        "done": false,
+        "xp": 140
+      },
+      {
+        "id": "c_deepwork3",
+        "title": "Deep Trio",
+        "done": false,
+        "xp": 85
+      }
+    ],
+    "weeklyQuestsDone": 1
+  },
+  "xpLog": [
+    {
+      "pts": 20,
+      "desc": "Challenge: Reflective",
+      "time": "10:49 PM"
+    },
+    {
+      "pts": 21,
+      "desc": "Completed: Did some lab work of Mobile application development (0.5h + proof)",
+      "time": "10:45 PM"
+    },
+    {
+      "pts": 20,
+      "desc": "Wake: Amazing! Before 7am",
+      "time": "10:44 PM"
+    },
+    {
+      "pts": -10,
+      "desc": "Sleep: Night owl — after 10:30pm",
+      "time": "10:44 PM"
+    },
+    {
+      "pts": 135,
+      "desc": "Completed: Linked List (2.75h + proof)",
+      "time": "10:43 PM"
+    }
+  ],
+  "socialMedia": {
+    "totalEntries": 0,
+    "todayEntries": 0,
+    "avgHours": "0"
+  },
+  "reading": {
+    "totalSessions": 0,
+    "totalMinutes": 0,
+    "totalXP": 0
+  },
+  "tomorrowPlan": {
+    "totalPlans": 0,
+    "hasTodayPlan": false
+  },
+  "sanskrit": {
+    "totalEntries": 0,
+    "totalXP": 0
+  },
+  "youtube": {
+    "totalVideos": 0,
+    "todayVideos": 0,
+    "totalXP": 0
+  },
+  "lifeTracker": {
+    "today": {
+      "habitsCompleted": 0,
+      "habitsDone": {},
+      "sleepRating": null,
+      "aloeApplied": false,
+      "aloeHasProof": false,
+      "aloeXpBonus": 0,
+      "mailChecked": false,
+      "mailCheckTime": null
+    },
+    "allTime": {
+      "aloeStreak": 0,
+      "aloeThisMonth": 0,
+      "aloeThisYear": 0,
+      "perfectHabitDaysThisMonth": 0,
+      "avgSleepRatingThisMonth": null,
+      "mailCheckedThisMonth": 0,
+      "mailCheckedThisYear": 0,
+      "mailStreak": 0
+    }
+  }
+}
