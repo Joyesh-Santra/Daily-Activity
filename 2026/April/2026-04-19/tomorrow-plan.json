@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-19",
+  "todayPlan": {
+    "priorities": [
+      "waking up early say before 5:30 am",
+      "Complete work in lab and 30 minutes of reading topics of college",
+      "Read a book first"
+    ],
+    "wakeTime": "05:25",
+    "focus": "deep",
+    "notes": "MY  intention would be write the task i do today and remove the waste time i do",
+    "date": "2026-04-19",
+    "ts": "10:50 PM"
+  },
+  "recentPlans": [
+    {
+      "priorities": [
+        "waking up early say before 5:30 am",
+        "Complete work in lab and 30 minutes of reading topics of college",
+        "Read a book first"
+      ],
+      "wakeTime": "05:25",
+      "focus": "deep",
+      "notes": "MY  intention would be write the task i do today and remove the waste time i do",
+      "date": "2026-04-19",
+      "ts": "10:50 PM"
+    }
+  ],
+  "summary": {
+    "totalPlans": 1,
+    "hasTodayPlan": true
+  }
+}
