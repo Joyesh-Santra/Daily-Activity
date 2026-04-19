@@ -2,21 +2,21 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-10-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-5-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-186-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Apprentice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-21-yellow?style=flat-square)
 
 </div>
 
-> 🌱 **Novice** · ⚡ **10 XP** · 🔥 **1 day streak** · 🏅 **5 badges**
+> ⚡ **Apprentice** · ⚡ **186 XP** · 🔥 **1 day streak** · 🏅 **21 badges**
 
 ---
 
 ## Daily Entries
 
-| Date | XP | Tasks | Hours | 🎬 YT | 📖 Read | 📱 Social | 🌿 Aloe | Rank |
-|:-----|---:|------:|------:|:-----:|:-------:|:---------:|:-------:|:-----|
-| [2026-04-18](./2026-04-18/README.md) | **10 XP** | 0 | 0.0h | — | — | 5h | 🌿 ✅ | 🌱 Novice |
-| [2026-04-16](./2026-04-16/README.md) | 30 XP | 0 | — | — | — | — | — | 🌱 Novice |
-| [2026-04-15](./2026-04-15/README.md) | 30 XP | 0 | — | — | — | — | — | 🌱 Novice |
+| Date | XP | Tasks | Hours | 🎬 YT | 📖 Read | 📱 Social | 🌿 Aloe | 📬 Mail | Rank |
+|:-----|---:|------:|------:|:-----:|:-------:|:---------:|:-------:|:-------:|:-----|
+| [2026-04-19](./2026-04-19/README.md) | **186 XP** | 2 | 3.3h | — | — | — | — | — | ⚡ Apprentice |
+| [2026-04-17](./2026-04-17/README.md) | 30 XP | 0 | — | — | — | — | — | — | 🌱 Novice |
+| [2026-04-14](./2026-04-14/README.md) | 21 XP | 1 | 1.0h | — | — | — | — | — | 🌱 Novice |
 
 ---
 
@@ -25,18 +25,18 @@
 | Metric | Value |
 |:-------|------:|
 | 📅 Active Days | **3** |
-| ⚡ Total XP | **70 XP** |
-| ⏱️ Total Hours | **0.0h** |
-| 🎯 Total Tasks | **0** |
-| 📱 Social Media | **5h** this month |
+| ⚡ Total XP | **237 XP** |
+| ⏱️ Total Hours | **4.3h** |
+| 🎯 Total Tasks | **3** |
 
 ### 🌱 Life Tracker — April Summary
 
 | Metric | Value |
 |:-------|------:|
-| 🌿 Aloe Vera Applied | **1 days** out of 3 |
+| 🌿 Aloe Vera Applied | **0 days** out of 3 |
 | 💯 Perfect Habit Days | **0 days** (all 5 habits done) |
-| 😴 Avg Sleep Rating | **6.5/10** (2 nights rated) |
+| 😴 Avg Sleep Rating | **—** (0 nights rated) |
+| 📬 Mail Checked | **0 days** out of 3 |
 
 ---
 
