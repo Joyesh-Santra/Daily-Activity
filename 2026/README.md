@@ -14,7 +14,7 @@
 
 | Month | Days | XP | ⏱️ Hours | 🎬 YT | 📖 Reading | 📱 Avg Social/day | 🌿 Aloe |
 |:------|-----:|---:|--------:|:-----:|:---------:|:-----------------:|:-------:|
-| [📅 April](./April/README.md) | 3 days | 237 XP | 4.3h | — | — | — | — |
+| [📅 April](./April/README.md) | 3 days | 237 XP | 4.3h | — | — | 1h 40m | 1🌿 |
 
 ---
 
@@ -22,9 +22,9 @@
 
 | Metric | Value |
 |:-------|------:|
-| 🌿 Aloe Vera Applied | **0 days** in 2026 |
+| 🌿 Aloe Vera Applied | **1 days** in 2026 |
 | 💯 Perfect Habit Days | **0 days** (all 5 done) |
-| 😴 Avg Sleep Rating | **—** (0 nights logged) |
+| 😴 Avg Sleep Rating | **6.0/10** (1 nights logged) |
 | 📬 Mail Checked | **0 days** in 2026 |
 
 ---
