@@ -14,7 +14,7 @@
 
 | Date | XP | Tasks | Hours | 🎬 YT | 📖 Read | 📱 Social | 🌿 Aloe | 📬 Mail | Rank |
 |:-----|---:|------:|------:|:-----:|:-------:|:---------:|:-------:|:-------:|:-----|
-| [2026-04-19](./2026-04-19/README.md) | **186 XP** | 2 | 3.3h | — | — | — | — | — | ⚡ Apprentice |
+| [2026-04-19](./2026-04-19/README.md) | **186 XP** | 2 | 3.3h | — | — | 5h | 🌿 ✅ | — | ⚡ Apprentice |
 | [2026-04-17](./2026-04-17/README.md) | 30 XP | 0 | — | — | — | — | — | — | 🌱 Novice |
 | [2026-04-14](./2026-04-14/README.md) | 21 XP | 1 | 1.0h | — | — | — | — | — | 🌱 Novice |
 
@@ -28,14 +28,15 @@
 | ⚡ Total XP | **237 XP** |
 | ⏱️ Total Hours | **4.3h** |
 | 🎯 Total Tasks | **3** |
+| 📱 Social Media | **5h** this month |
 
 ### 🌱 Life Tracker — April Summary
 
 | Metric | Value |
 |:-------|------:|
-| 🌿 Aloe Vera Applied | **0 days** out of 3 |
+| 🌿 Aloe Vera Applied | **1 days** out of 3 |
 | 💯 Perfect Habit Days | **0 days** (all 5 habits done) |
-| 😴 Avg Sleep Rating | **—** (0 nights rated) |
+| 😴 Avg Sleep Rating | **6.0/10** (1 nights rated) |
 | 📬 Mail Checked | **0 days** out of 3 |
 
 ---
