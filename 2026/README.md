@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-186-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Apprentice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-21-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-37-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-23-yellow?style=flat-square)
 
 </div>
 
-> ⚡ **Apprentice** · ⚡ **186 XP** · 🔥 **1 day streak** · 🏅 **21 badges**
+> 🌱 **Novice** · ⚡ **37 XP** · 🔥 **1 day streak** · 🏅 **23 badges**
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Month | Days | XP | ⏱️ Hours | 🎬 YT | 📖 Reading | 📱 Avg Social/day | 🌿 Aloe |
 |:------|-----:|---:|--------:|:-----:|:---------:|:-----------------:|:-------:|
-| [📅 April](./April/README.md) | 3 days | 237 XP | 4.3h | — | — | 1h 40m | 1🌿 |
+| [📅 April](./April/README.md) | 4 days | 274 XP | 4.8h | — | — | — | 1🌿 |
 
 ---
 
