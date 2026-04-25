@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-04-19T17:22:02.848Z",
-  "totalXP": 186,
-  "rank": "Apprentice",
-  "rankIcon": "⚡",
+  "lastSync": "2026-04-25T04:02:00.182Z",
+  "totalXP": 37,
+  "rank": "Novice",
+  "rankIcon": "🌱",
   "streak": 1,
-  "daysTracked": 2,
-  "totalBadges": 21,
+  "daysTracked": 3,
+  "totalBadges": 23,
   "activePlanet": "default",
   "bestDayXP": 186,
-  "avgDayXP": 26,
+  "avgDayXP": 79,
   "challengesCompleted": 1,
   "recentDays": [
     {
@@ -20,6 +20,11 @@
       "date": "2026-04-17",
       "xp": 30,
       "tasks": 0
+    },
+    {
+      "date": "2026-04-19",
+      "xp": 186,
+      "tasks": 2
     }
   ]
 }
