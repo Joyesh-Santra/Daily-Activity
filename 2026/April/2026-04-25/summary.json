@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "version": "claude-quest-",
+    "generatedAt": "2026-04-25T04:01:58.326Z",
+    "date": "2026-04-25",
+    "month": "April",
+    "year": "2026"
+  },
+  "progress": {
+    "totalXP": 37,
+    "rank": "Novice",
+    "rankIcon": "🌱",
+    "rankIndex": 1,
+    "totalRanks": 20,
+    "streak": 1,
+    "shopSpent": 0,
+    "challengesCompleted": 1
+  },
+  "today": {
+    "tasks": [
+      {
+        "name": "Get ready before 10:30 am",
+        "hours": 0.5,
+        "xp": 17,
+        "category": "planning",
+        "difficulty": "deepwork",
+        "hasProof": false,
+        "notes": ""
+      }
+    ],
+    "totalHours": 0.5,
+    "taskCount": 1,
+    "wakeTime": null,
+    "sleepTime": null
+  },
+  "cosmos": {
+    "kingdomTier": "Lonely Hamlet",
+    "buildings": 1,
+    "activePlanet": "default",
+    "ownedPlanets": [
+      "default"
+    ]
+  },
+  "achievements": {
+    "badgesEarned": 23,
+    "totalBadges": 319,
+    "badges": [
+      {
+        "id": "sleep_king",
+        "name": "Sleep King",
+        "rarity": "rare",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "first_task",
+        "name": "First Blood",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "hour_1",
+        "name": "Locked In",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "report_gen",
+        "name": "Analyst",
+        "rarity": "common",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "synced",
+        "name": "Commit Pusher",
+        "rarity": "rare",
+        "earnedAt": "4/14/2026"
+      },
+      {
+        "id": "early_bird",
+        "name": "Early Bird",
+        "rarity": "common",
+        "earnedAt": "4/17/2026"
+      },
+      {
+        "id": "b2_tasks_1",
+        "name": "First Task",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_hour_1",
+        "name": "First Hour",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_days_1",
+        "name": "Day One",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_wake_first",
+        "name": "Rise & Shine",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_sleep_first",
+        "name": "Good Night",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_sync_3",
+        "name": "Sync Habit",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "first_100",
+        "name": "Century",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "hour_2",
+        "name": "Deep Focus",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "proof_1",
+        "name": "Show Your Work",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "challenge_done",
+        "name": "Challenge Accepted",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_early_1",
+        "name": "Early Bird",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_efficient",
+        "name": "Efficient",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_super_eff",
+        "name": "Super Efficient",
+        "rarity": "rare",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_proof_1",
+        "name": "Show Your Work",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b3_hour_3_day",
+        "name": "3-Hour Day",
+        "rarity": "common",
+        "earnedAt": "4/19/2026"
+      },
+      {
+        "id": "b2_days_3",
+        "name": "Three Days In",
+        "rarity": "common",
+        "earnedAt": "4/24/2026"
+      },
+      {
+        "id": "b3_xp_250",
+        "name": "Quarter Grand",
+        "rarity": "common",
+        "earnedAt": "4/24/2026"
+      }
+    ],
+    "dailyChallenges": [
+      {
+        "id": "c_200xp",
+        "title": "Double Century",
+        "done": false,
+        "xp": 90
+      },
+      {
+        "id": "c_singletask3h",
+        "title": "The Deep Dive",
+        "done": false,
+        "xp": 100
+      },
+      {
+        "id": "c_50xp",
+        "title": "Half Century",
+        "done": false,
+        "xp": 15
+      },
+      {
+        "id": "c_study_6h",
+        "title": "Academic Mode",
+        "done": false,
+        "xp": 250
+      },
+      {
+        "id": "c_code_learn",
+        "title": "Build & Learn",
+        "done": false,
+        "xp": 65
+      }
+    ],
+    "weeklyQuestsDone": 1
+  },
+  "xpLog": [
+    {
+      "pts": 17,
+      "desc": "Completed: Get ready before 10:30 am (0.5h)",
+      "time": "09:31 AM"
+    },
+    {
+      "pts": 20,
+      "desc": "📖 Reading: df",
+      "time": "09:12 AM"
+    }
+  ],
+  "socialMedia": {
+    "totalEntries": 1,
+    "todayEntries": 0,
+    "avgHours": "5.0"
+  },
+  "reading": {
+    "totalSessions": 0,
+    "totalMinutes": 0,
+    "totalXP": 0
+  },
+  "tomorrowPlan": {
+    "totalPlans": 1,
+    "hasTodayPlan": false
+  },
+  "sanskrit": {
+    "totalEntries": 0,
+    "totalXP": 0
+  },
+  "youtube": {
+    "totalVideos": 0,
+    "todayVideos": 0,
+    "totalXP": 0
+  },
+  "lifeTracker": {
+    "today": {
+      "habitsCompleted": 0,
+      "habitsDone": {},
+      "sleepRating": null,
+      "aloeApplied": false,
+      "aloeHasProof": false,
+      "aloeXpBonus": 0,
+      "mailChecked": false,
+      "mailCheckTime": null
+    },
+    "allTime": {
+      "aloeStreak": 1,
+      "aloeThisMonth": 1,
+      "aloeThisYear": 1,
+      "perfectHabitDaysThisMonth": 0,
+      "avgSleepRatingThisMonth": "6.0",
+      "mailCheckedThisMonth": 0,
+      "mailCheckedThisYear": 0,
+      "mailStreak": 0
+    }
+  }
+}
