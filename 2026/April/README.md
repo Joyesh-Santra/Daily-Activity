@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![XP](https://img.shields.io/badge/XP-186-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Apprentice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-21-yellow?style=flat-square)
+![XP](https://img.shields.io/badge/XP-37-orange?style=flat-square) ![Rank](https://img.shields.io/badge/Rank-Novice-blueviolet?style=flat-square) ![Streak](https://img.shields.io/badge/Streak-1%20days-red?style=flat-square) ![Badges](https://img.shields.io/badge/Badges-23-yellow?style=flat-square)
 
 </div>
 
-> ⚡ **Apprentice** · ⚡ **186 XP** · 🔥 **1 day streak** · 🏅 **21 badges**
+> 🌱 **Novice** · ⚡ **37 XP** · 🔥 **1 day streak** · 🏅 **23 badges**
 
 ---
 
@@ -14,7 +14,8 @@
 
 | Date | XP | Tasks | Hours | 🎬 YT | 📖 Read | 📱 Social | 🌿 Aloe | 📬 Mail | Rank |
 |:-----|---:|------:|------:|:-----:|:-------:|:---------:|:-------:|:-------:|:-----|
-| [2026-04-19](./2026-04-19/README.md) | **186 XP** | 2 | 3.3h | — | — | 5h | 🌿 ✅ | — | ⚡ Apprentice |
+| [2026-04-25](./2026-04-25/README.md) | **37 XP** | 1 | 0.5h | — | — | — | — | — | 🌱 Novice |
+| [2026-04-19](./2026-04-19/README.md) | 186 XP | 2 | 3.3h | — | — | — | 🌿 ✅ | — | ⚡ Apprentice |
 | [2026-04-17](./2026-04-17/README.md) | 30 XP | 0 | — | — | — | — | — | — | 🌱 Novice |
 | [2026-04-14](./2026-04-14/README.md) | 21 XP | 1 | 1.0h | — | — | — | — | — | 🌱 Novice |
 
@@ -24,20 +25,19 @@
 
 | Metric | Value |
 |:-------|------:|
-| 📅 Active Days | **3** |
-| ⚡ Total XP | **237 XP** |
-| ⏱️ Total Hours | **4.3h** |
-| 🎯 Total Tasks | **3** |
-| 📱 Social Media | **5h** this month |
+| 📅 Active Days | **4** |
+| ⚡ Total XP | **274 XP** |
+| ⏱️ Total Hours | **4.8h** |
+| 🎯 Total Tasks | **4** |
 
 ### 🌱 Life Tracker — April Summary
 
 | Metric | Value |
 |:-------|------:|
-| 🌿 Aloe Vera Applied | **1 days** out of 3 |
+| 🌿 Aloe Vera Applied | **1 days** out of 4 |
 | 💯 Perfect Habit Days | **0 days** (all 5 habits done) |
 | 😴 Avg Sleep Rating | **6.0/10** (1 nights rated) |
-| 📬 Mail Checked | **0 days** out of 3 |
+| 📬 Mail Checked | **0 days** out of 4 |
 
 ---
 
