@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-25",
+  "entries": [],
+  "allTimeEntries": [
+    {
+      "hours": 5,
+      "platforms": [],
+      "reasons": [
+        "boredom",
+        "procrastination",
+        "habit",
+        "entertainment"
+      ],
+      "strategies": [
+        "delete-app",
+        "replace"
+      ],
+      "commitment": "I am commited to remove this from my part of life",
+      "date": "2026-04-19",
+      "time": "10:50 PM"
+    }
+  ],
+  "summary": {
+    "totalEntries": 1,
+    "todayEntries": 0,
+    "todayHours": "0.0",
+    "avgHours": "5.0"
+  }
+}
